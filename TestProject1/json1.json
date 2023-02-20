@@ -1,0 +1,10 @@
+{
+  "Email": "json@email.com",
+  "Password": "passwordJson",
+  "Address1": "123 Json",
+  "Address2": "Json2",
+  "City": "Belmont",
+  "Zip": "01003",
+  "AnnualPayment": "900",
+  "Description": "Some description from JSON file"
+}
